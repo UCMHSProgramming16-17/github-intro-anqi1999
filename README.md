@@ -1,4 +1,4 @@
-# Sample repository
+Sample Repository
 ----
 We'll be using this repository to practice using Git and GitHub.
 
@@ -9,3 +9,5 @@ Process:
 3. Push your changes.
 4. Modify the repository online.
 5. Pull your changes.
+6. Eat some ramen.
+7. You are now a college student.
